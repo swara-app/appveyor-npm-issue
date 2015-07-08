@@ -1,0 +1,2 @@
+appveyor-npm-issue
+==================
