@@ -9,9 +9,9 @@ install:
   # Get the latest stable version of Node.js or io.js
   - ps: Install-Product node $env:nodejs_version
   # install grunt, gulp & dependencies
-  - npm install -g grunt-cli
-  - npm install -g gulp
-  - npm install
+  - npm install -dd -g grunt-cli
+  - npm install -dd -g gulp
+  - npm install -dd
 
 artifacts:
   - path: releases
