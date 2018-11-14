@@ -22,7 +22,7 @@
     "load-grunt-tasks": "~3.2.0",
     "q": "^1.4.1",
     "time-grunt": "~1.2.1",
-    "yargs": "^3.14.0"
+    "yargs": "^12.0.2"
   },
   "optionalDependencies": {
     "appdmg": "^0.3.2",
